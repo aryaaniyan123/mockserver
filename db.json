@@ -1,0 +1,77 @@
+{
+    "status": 200,
+    "result": {
+      "data": {
+        "tickets": {
+          "id": "VGlja2V0czozOTYzOQ==",
+          "ticket_id": 39639,
+          "closePrevented": 0,
+          "user_signature": "",
+          "code": "INDV39639-5",
+          "company_id": 24,
+          "title": "Test",
+          "departmentid": 28,
+          "description": "<html>\r\n  <head>\r\n\r\n    <meta http-equiv=\"content-type\" content=\"text/html; charset=UTF-8\">\r\n  </head>\r\n  <body>\r\n    <p>Test Kindly ignore<br>\r\n    </p>\r\n    <div class=\"moz-signature\">-- <br>\r\n      <title>Email Signature</title>\r\n      <meta content=\"text/html; charset=UTF-8\" http-equiv=\"Content-Type\">\r\n      <table style=\"width: 430px; font-size: 9pt; font-family:\r\n        Arial,sans-serif; line-height:normal;\" cellspacing=\"0\"\r\n        cellpadding=\"0\">\r\n        <tbody>\r\n          <tr>\r\n            <td style=\"width:86px; vertical-align:top;\" valign=\"top\"> <a\r\n                href=\"https://supportlobby.com/\" target=\"_blank\"><img\r\n                  alt=\"Logo\" style=\"width:86px; height:86px; border:0;\"\r\n                  src=\"https://i.ibb.co/BVcfZcM/Active-lobby-Logo.jpg\"\r\n                  width=\"86\" height=\"86\" border=\"0\"></a> </td>\r\n            <td style=\"width:44px; ; text-align:center;\r\n              vertical-align:top;\" valign=\"top\"> <img alt=\"Logo\"\r\n                style=\"width:13px; height:86px; border:0;\"\r\nsrc=\"https://codetwocdn.azureedge.net/images/mail-signatures/generator//medium-banner/line.png\"\r\n                width=\"13\" border=\"0\"> </td>\r\n            <td style=\"width:300px; vertical-align:top;\" valign=\"top\">\r\n              <table cellspacing=\"0\" cellpadding=\"0\">\r\n                <tbody>\r\n                  <tr>\r\n                    <td style=\"font-size:10pt; font-family: Arial,\r\n                      sans-serif; font-weight: bold; color: #3d3c3f;\r\n                      padding-bottom:5px;\"><span style=\"font-family:\r\n                        Arial, sans-serif; color:#0ca7f6;\">Saneesh A.S</span></td>\r\n                  </tr>\r\n                  <tr>\r\n                    <td style=\"font-size:10pt; font-family:\r\n                      Arial,sans-serif; font-weight: bold; color:\r\n                      #3d3c3f; padding-bottom:5px;\"><span\r\n                        style=\"font-family: Arial, sans-serif;\r\n                        color:#0ca7f6;\">System Engineer</span></td>\r\n                  </tr>\r\n                  <tr>\r\n                    <td style=\"font-size:9pt; font-family: Arial,\r\n                      sans-serif; color: #9b9b9b; padding-bottom:1px;\"><span\r\n                        style=\"font-family: Arial, sans-serif;\r\n                        color:#1793d2;\"><span style=\"font-weight:bold;\">Email:\r\n                        </span><a class=\"moz-txt-link-abbreviated\" href=\"mailto:saneesh@activelobby.net\">saneesh@activelobby.net</a></span><span\r\n                        style=\"font-family: Arial, sans-serif;\r\n                        color:#1793d2\"> | </span> <span><a\r\n                          href=\"http://www.supportlobby.com\"\r\n                          target=\"_blank\"><span style=\"font-family:\r\n                            Arial, sans-serif; color:#1793d2\">www.supportlobby.com</span></a></span>\r\n                    </td>\r\n                  </tr>\r\n                  <tr>\r\n                    <td style=\"font-size:9pt; font-family: Arial,\r\n                      sans-serif; color: #9b9b9b; padding-bottom:1px;\"><span\r\n                        style=\"font-family: Arial, sans-serif;\r\n                        color:#1793d2;\">Padamugal - Palachuvadu Rd,\r\n                        Satellite Twp,</span><span style=\"font-family:\r\n                        Arial, sans-serif; color:#1793d2\"> | </span><span\r\n                        style=\"font-family: Arial, sans-serif;\r\n                        color:#1793d2\">Padamughal | Kakkanad, Kerala\r\n                        682037</span> </td>\r\n                  </tr>\r\n                  <tr>\r\n                    <td style=\"padding-top:10px; vertical-align:\r\n                      bottom;\"><span style=\"display:inline-block;\r\n                        height:22px;\"><span><a\r\n                            href=\"https://www.facebook.com/supportlobby\"\r\n                            target=\"_blank\"><img alt=\"Facebook icon\"\r\n                              style=\"border:0; height:20px; width:20px\"\r\nsrc=\"https://codetwocdn.azureedge.net/images/mail-signatures/generator/medium-banner/fb.png\"\r\n                              width=\"20\" height=\"20\" border=\"0\"></a> </span><span><a\r\nhref=\"https://in.linkedin.com/company/active-lobby-is\" target=\"_blank\"><img\r\n                              alt=\"LinkedIn icon\" style=\"border:0;\r\n                              height:20px; width:20px\"\r\nsrc=\"https://codetwocdn.azureedge.net/images/mail-signatures/generator/medium-banner/ln.png\"\r\n                              width=\"20\" height=\"20\" border=\"0\"></a> </span><span><a\r\n                            href=\"https://twitter.com/supportlobby\"\r\n                            target=\"_blank\"><img alt=\"Twitter icon\"\r\n                              style=\"border:0; height:20px; width:20px\"\r\nsrc=\"https://codetwocdn.azureedge.net/images/mail-signatures/generator/medium-banner/tt.png\"\r\n                              width=\"20\" height=\"20\" border=\"0\"></a> </span></span>\r\n                    </td>\r\n                  </tr>\r\n                </tbody>\r\n              </table>\r\n            </td>\r\n          </tr>\r\n        </tbody>\r\n      </table>\r\n    </div>\r\n  </body>\r\n</html>\r\n",
+          "due_date": "Fri Jul 16 2021 12:36:38 GMT+0000 (UTC)",
+          "createdAt": "Sun Jul 11 2021 12:36:38 GMT+0000 (UTC)",
+          "updatedAt": "Sun Jul 11 2021 12:36:38 GMT+0000 (UTC)",
+          "status": 1,
+          "priority": 2,
+          "touches": 5,
+          "user_timezone": 0,
+          "islinked": 0,
+          "sourceInfo": {
+            "name": "Email",
+            "source_icon": "<span class=\"fa fa-envelope\"></span>"
+          },
+          "attachment": [],
+          "statusInfo": {
+            "status_id": 1,
+            "name": "Open",
+            "status_color": "#6abc45",
+            "groupInfo": { "group_color": "red", "id": "U3RhdHVzX0dyb3Vwczox" },
+            "id": "VGlja2V0X3N0YXR1c2VzOjE="
+          },
+          "assigneeInfo": {
+            "id": "VXNlcnM6MA==",
+            "user_id": 0,
+            "firstname": "Not",
+            "lastname": "Assigned"
+          },
+          "priorityInfo": {
+            "priority_id": 2,
+            "name": "Medium",
+            "id": "VGlja2V0X3ByaW9yaXRpZXM6Mg=="
+          },
+          "authorInfo": {
+            "user_id": 11,
+            "client_id": 11,
+            "email": "shared@activelobby.net",
+            "firstname": "revathy",
+            "lastname": "",
+            "useravatar": null,
+            "company_domain": null,
+            "nick_name": null,
+            "phone": null,
+            "address": null,
+            "company": "NULL",
+            "isPrivileged": null,
+            "id": "Q2xpZW50czoxMQ=="
+          },
+          "isSubscribed": 0,
+          "ticketfields": "[]",
+          "departmentInfo": {
+            "dep_id": 28,
+            "dep_name": "Support",
+            "id": "RGVwYXJ0bWVudHM6Mjg="
+          },
+          "businessInfo": {
+            "businesses_name": "IndusViva",
+            "businesses_id": 24,
+            "id": "QnVzaW5lc3NlczoyNA=="
+          }
+        }
+      }
+    }
+  }
+  
