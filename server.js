@@ -17,7 +17,7 @@ server.post('/post/result', (req, res) => {
       let ticketId = req.body['ticketId'];
       if (ticketId != null && ticketId >= 0) {
         let results = db.result.find(resultss => {
-          return resultss.userId == userId;
+          return resultss.ticketId == ticketId;
         })
   
         if (results) {
