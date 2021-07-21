@@ -12,30 +12,29 @@ server.use(jsonServer.rewriter({
   '/api/result': '/result'
 }));
 
-server.post('/post/result', (req, res) => {
-    if (req.method === 'POST') {
-      let ticketId = req.body['ticketId'];
-      if (ticketId != null && ticketId >= 0) {
-        let results = db.result.find(resultss => {
-          return resultss.ticketId == ticketId;
-        })
-  
-        if (results) {
-          let {id, ...resultss} = results;
-          res.status(200).jsonp(user);
-        } else {
-          res.status(400).jsonp({
-            error: "Bad ticketId"
-          });
-        }
+server.post('/post/messages', (req, res) => {
+  if (req.method === 'POST') {
+    let ticketId = req.body['ticketId'];
+    if (ticketId != null && ticketId >= 0) {
+      let result = db.messages.find(message => {
+        return message.ticketId == ticketId;
+      })
+
+      if (result) {
+        let {id, ...message} = result;
+        res.status(200).jsonp(message);
       } else {
         res.status(400).jsonp({
-          error: "No valid ticketId"
+          error: "Bad ticketId"
         });
       }
+    } else {
+      res.status(400).jsonp({
+        error: "No valid ticketId"
+      });
     }
-  });
-
+  }
+});
 
 server.use(router);
 server.listen(port);
